@@ -1,0 +1,301 @@
+job_id,title,company,location,salary,experience,skills,posted_date
+1,Full Stack Developer,Wipro,Hyderabad,16.66,0,"Excel, Power BI, SQL",5/19/2024
+2,Data Engineer,Infosys,Delhi,19.39,6,"SQL, Python, Excel",3/9/2024
+3,Full Stack Developer,Capgemini,Mumbai,13.57,7,"HTML, CSS, JavaScript",4/26/2024
+4,Java Developer,Deloitte,Pune,15.54,4,"AWS, Docker, Kubernetes",2/13/2024
+5,Software Engineer,Tech Mahindra,Mumbai,13.5,6,"Python, ML, SQL",3/12/2024
+6,Software Engineer,Capgemini,Pune,18.36,6,"Excel, Power BI, SQL",5/26/2024
+7,Frontend Developer,Accenture,Bangalore,3.19,3,"Python, Spark, SQL",5/29/2024
+8,Data Engineer,Capgemini,Chennai,5.45,7,"Java, Spring Boot, SQL",2/17/2024
+9,DevOps Engineer,Capgemini,Bangalore,12.87,5,"Python, Spark, SQL",3/14/2024
+10,Data Analyst,Capgemini,Delhi,3.06,3,"SQL, Python, Excel",1/10/2024
+11,DevOps Engineer,Wipro,Mumbai,12.88,2,"Python, ML, SQL",4/17/2024
+12,Data Engineer,Accenture,Chennai,8.61,6,"React, Node.js, JavaScript",3/8/2024
+13,Data Analyst,Deloitte,Hyderabad,17.36,3,"Excel, Power BI, SQL",1/26/2024
+14,Business Analyst,Accenture,Chennai,3.34,5,"Python, Spark, SQL",3/7/2024
+15,Data Engineer,Capgemini,Pune,12.38,0,"React, Node.js, JavaScript",3/7/2024
+16,Data Engineer,Infosys,Delhi,16.3,0,"SQL, Python, Excel",3/26/2024
+17,Full Stack Developer,Wipro,Delhi,8.21,4,"Python, ML, SQL",4/14/2024
+18,Data Analyst,HCL,Pune,9.77,3,"AWS, Docker, Kubernetes",2/22/2024
+19,Full Stack Developer,TCS,Chennai,15.64,4,"SQL, Python, Excel",2/3/2024
+20,Frontend Developer,Deloitte,Hyderabad,6.36,6,"Excel, Power BI, SQL",3/12/2024
+21,Software Engineer,HCL,Chennai,5.72,2,"Python, Spark, SQL",2/8/2024
+22,Data Analyst,Tech Mahindra,Mumbai,12.46,1,"AWS, Docker, Kubernetes",4/5/2024
+23,Full Stack Developer,Capgemini,Pune,15.46,7,"Python, Spark, SQL",4/28/2024
+24,DevOps Engineer,Infosys,Bangalore,3.16,0,"Excel, Power BI, SQL",3/1/2024
+25,Data Scientist,Wipro,Pune,5.11,0,"HTML, CSS, JavaScript",1/27/2024
+26,Data Engineer,Wipro,Bangalore,10.7,5,"Python, ML, SQL",3/16/2024
+27,DevOps Engineer,Infosys,Delhi,4.24,3,"Python, Spark, SQL",3/20/2024
+28,Data Analyst,Tech Mahindra,Mumbai,18.65,3,"SQL, Python, Excel",2/13/2024
+29,Software Engineer,HCL,Bangalore,19.15,2,"SQL, Python, Excel",3/17/2024
+30,Data Engineer,Capgemini,Mumbai,5.39,7,"Python, ML, SQL",1/19/2024
+31,Software Engineer,Accenture,Chennai,12.66,2,"Java, Spring Boot, SQL",1/14/2024
+32,Java Developer,Accenture,Chennai,15.12,0,"HTML, CSS, JavaScript",2/3/2024
+33,Software Engineer,Capgemini,Chennai,8.61,4,"React, Node.js, JavaScript",4/20/2024
+34,Data Scientist,Tech Mahindra,Pune,6.59,6,"HTML, CSS, JavaScript",1/25/2024
+35,Data Engineer,Tech Mahindra,Chennai,3.02,1,"AWS, Docker, Kubernetes",1/26/2024
+36,Java Developer,TCS,Mumbai,8.4,3,"SQL, Python, Excel",4/24/2024
+37,DevOps Engineer,HCL,Hyderabad,19.58,5,"HTML, CSS, JavaScript",2/26/2024
+38,Software Engineer,Infosys,Delhi,3.69,4,"Excel, Power BI, SQL",2/5/2024
+39,DevOps Engineer,Deloitte,Bangalore,11.47,3,"Python, Spark, SQL",2/25/2024
+40,Data Engineer,Deloitte,Mumbai,4.18,1,"Java, Spring Boot, SQL",2/17/2024
+41,Java Developer,Infosys,Pune,15.41,5,"Python, Spark, SQL",2/3/2024
+42,Data Analyst,TCS,Delhi,11.29,4,"Python, ML, SQL",4/26/2024
+43,Data Scientist,HCL,Bangalore,9.69,1,"HTML, CSS, JavaScript",5/28/2024
+44,Software Engineer,HCL,Bangalore,18.53,3,"SQL, Python, Excel",3/19/2024
+45,Full Stack Developer,Accenture,Bangalore,3.96,3,"Excel, Power BI, SQL",2/4/2024
+46,Frontend Developer,TCS,Mumbai,8.24,3,"Excel, Power BI, SQL",4/13/2024
+47,Business Analyst,TCS,Mumbai,3.46,5,"SQL, Python, Excel",1/21/2024
+48,Data Analyst,Deloitte,Delhi,18.85,1,"HTML, CSS, JavaScript",5/11/2024
+49,Frontend Developer,TCS,Bangalore,7.22,4,"SQL, Python, Excel",4/15/2024
+50,Software Engineer,Capgemini,Delhi,7,5,"HTML, CSS, JavaScript",3/5/2024
+51,Java Developer,Infosys,Pune,13.07,2,"Excel, Power BI, SQL",4/16/2024
+52,Data Scientist,Tech Mahindra,Hyderabad,6.93,5,"Excel, Power BI, SQL",5/6/2024
+53,Data Engineer,Capgemini,Delhi,8.91,7,"Python, ML, SQL",1/15/2024
+54,Data Scientist,TCS,Hyderabad,14,2,"Excel, Power BI, SQL",1/6/2024
+55,Software Engineer,HCL,Mumbai,9.97,1,"SQL, Python, Excel",2/27/2024
+56,Full Stack Developer,Tech Mahindra,Chennai,13.23,5,"Python, Spark, SQL",1/7/2024
+57,DevOps Engineer,Deloitte,Chennai,12.39,1,"Java, Spring Boot, SQL",1/10/2024
+58,Data Engineer,Capgemini,Mumbai,11.48,4,"Excel, Power BI, SQL",4/29/2024
+59,Full Stack Developer,Accenture,Chennai,12.77,2,"Excel, Power BI, SQL",1/27/2024
+60,Backend Developer,Wipro,Mumbai,12.93,7,"SQL, Python, Excel",2/10/2024
+61,Frontend Developer,Tech Mahindra,Mumbai,19.27,6,"SQL, Python, Excel",4/20/2024
+62,Backend Developer,Capgemini,Hyderabad,10.22,7,"Excel, Power BI, SQL",4/16/2024
+63,Full Stack Developer,Accenture,Mumbai,11.71,4,"Python, Spark, SQL",2/5/2024
+64,Java Developer,Deloitte,Hyderabad,16,7,"SQL, Python, Excel",4/16/2024
+65,DevOps Engineer,Accenture,Hyderabad,7.14,0,"Python, ML, SQL",5/23/2024
+66,Data Analyst,Accenture,Chennai,12.38,3,"HTML, CSS, JavaScript",3/1/2024
+67,DevOps Engineer,Infosys,Bangalore,3.97,7,"HTML, CSS, JavaScript",5/29/2024
+68,Data Engineer,TCS,Bangalore,16.67,2,"AWS, Docker, Kubernetes",4/24/2024
+69,Business Analyst,TCS,Delhi,16.93,2,"Excel, Power BI, SQL",4/23/2024
+70,Backend Developer,HCL,Chennai,7.08,1,"React, Node.js, JavaScript",2/12/2024
+71,Data Engineer,Wipro,Hyderabad,16.01,3,"Excel, Power BI, SQL",2/23/2024
+72,DevOps Engineer,HCL,Mumbai,7.62,3,"Python, ML, SQL",2/2/2024
+73,DevOps Engineer,Deloitte,Delhi,7.18,3,"Excel, Power BI, SQL",3/29/2024
+74,Software Engineer,Wipro,Delhi,9.06,3,"Python, Spark, SQL",4/9/2024
+75,Data Scientist,Wipro,Delhi,5.75,6,"HTML, CSS, JavaScript",1/8/2024
+76,Java Developer,TCS,Mumbai,13.71,2,"Java, Spring Boot, SQL",2/7/2024
+77,Software Engineer,Capgemini,Chennai,19.39,3,"Python, Spark, SQL",5/8/2024
+78,Software Engineer,Deloitte,Pune,12.68,3,"HTML, CSS, JavaScript",3/14/2024
+79,Business Analyst,TCS,Mumbai,4.57,5,"Java, Spring Boot, SQL",3/17/2024
+80,Java Developer,Deloitte,Delhi,5.95,2,"Python, ML, SQL",2/6/2024
+81,Software Engineer,TCS,Delhi,6,7,"Excel, Power BI, SQL",1/26/2024
+82,DevOps Engineer,Wipro,Chennai,11.26,0,"AWS, Docker, Kubernetes",3/20/2024
+83,Software Engineer,Deloitte,Hyderabad,12.69,6,"SQL, Python, Excel",1/2/2024
+84,Data Engineer,HCL,Bangalore,14.31,7,"Java, Spring Boot, SQL",4/9/2024
+85,Data Scientist,Tech Mahindra,Pune,4.38,5,"Excel, Power BI, SQL",1/28/2024
+86,Frontend Developer,Accenture,Bangalore,11.47,6,"React, Node.js, JavaScript",1/10/2024
+87,Data Analyst,Tech Mahindra,Chennai,16.55,1,"Python, Spark, SQL",4/17/2024
+88,Data Analyst,Deloitte,Delhi,12.51,7,"Java, Spring Boot, SQL",5/4/2024
+89,Software Engineer,Tech Mahindra,Hyderabad,4.48,3,"SQL, Python, Excel",3/19/2024
+90,Frontend Developer,Tech Mahindra,Chennai,16.75,6,"Python, ML, SQL",5/17/2024
+91,Frontend Developer,Wipro,Bangalore,4.8,5,"Python, Spark, SQL",3/16/2024
+92,Data Scientist,TCS,Hyderabad,19.32,5,"Excel, Power BI, SQL",2/15/2024
+93,Data Analyst,Infosys,Bangalore,15.1,7,"Java, Spring Boot, SQL",1/6/2024
+94,Data Analyst,Deloitte,Delhi,19.23,6,"Java, Spring Boot, SQL",1/10/2024
+95,Frontend Developer,Tech Mahindra,Mumbai,14.53,4,"Python, ML, SQL",1/15/2024
+96,Business Analyst,Tech Mahindra,Delhi,5.37,7,"Excel, Power BI, SQL",3/1/2024
+97,Business Analyst,Wipro,Bangalore,5.86,1,"AWS, Docker, Kubernetes",5/25/2024
+98,Frontend Developer,Deloitte,Hyderabad,6.07,3,"HTML, CSS, JavaScript",1/2/2024
+99,Frontend Developer,TCS,Mumbai,16.78,7,"Java, Spring Boot, SQL",5/10/2024
+100,Software Engineer,Infosys,Hyderabad,8.95,0,"Python, Spark, SQL",3/27/2024
+101,Backend Developer,Tech Mahindra,Bangalore,17.33,1,"HTML, CSS, JavaScript",4/26/2024
+102,Backend Developer,HCL,Bangalore,9.25,6,"AWS, Docker, Kubernetes",4/27/2024
+103,Software Engineer,TCS,Chennai,4.69,4,"Python, ML, SQL",2/29/2024
+104,DevOps Engineer,Capgemini,Delhi,10.12,3,"Excel, Power BI, SQL",4/9/2024
+105,Frontend Developer,Infosys,Chennai,6.28,5,"SQL, Python, Excel",3/10/2024
+106,Java Developer,HCL,Mumbai,8.72,3,"Python, Spark, SQL",5/20/2024
+107,DevOps Engineer,Infosys,Chennai,4.21,5,"Python, Spark, SQL",2/15/2024
+108,Backend Developer,Capgemini,Pune,19.68,2,"Java, Spring Boot, SQL",4/4/2024
+109,Frontend Developer,Accenture,Pune,15.51,5,"HTML, CSS, JavaScript",5/23/2024
+110,Software Engineer,TCS,Mumbai,17.65,5,"Python, Spark, SQL",1/3/2024
+111,Data Analyst,Accenture,Delhi,15.73,5,"SQL, Python, Excel",4/15/2024
+112,Full Stack Developer,HCL,Delhi,7.48,7,"Python, ML, SQL",5/19/2024
+113,Frontend Developer,Wipro,Delhi,4.7,1,"Excel, Power BI, SQL",2/4/2024
+114,Data Engineer,Capgemini,Chennai,10.66,5,"Python, ML, SQL",2/5/2024
+115,Backend Developer,Tech Mahindra,Chennai,4.38,1,"HTML, CSS, JavaScript",5/28/2024
+116,DevOps Engineer,TCS,Chennai,15.89,6,"HTML, CSS, JavaScript",3/11/2024
+117,Business Analyst,Infosys,Mumbai,17.01,1,"React, Node.js, JavaScript",5/5/2024
+118,Full Stack Developer,Capgemini,Chennai,15.85,6,"HTML, CSS, JavaScript",1/7/2024
+119,Software Engineer,TCS,Mumbai,19.49,4,"Python, Spark, SQL",2/13/2024
+120,Frontend Developer,HCL,Chennai,8.84,5,"HTML, CSS, JavaScript",5/22/2024
+121,Data Scientist,Tech Mahindra,Mumbai,6.4,6,"AWS, Docker, Kubernetes",2/18/2024
+122,Java Developer,Capgemini,Pune,4.18,3,"Java, Spring Boot, SQL",3/4/2024
+123,Full Stack Developer,Capgemini,Delhi,5.63,2,"Python, ML, SQL",1/16/2024
+124,Business Analyst,TCS,Chennai,4.84,0,"SQL, Python, Excel",3/9/2024
+125,Data Scientist,Deloitte,Mumbai,11.45,3,"Python, Spark, SQL",4/27/2024
+126,Data Engineer,Wipro,Delhi,17.23,0,"SQL, Python, Excel",1/19/2024
+127,Java Developer,Tech Mahindra,Delhi,10.17,5,"Python, ML, SQL",3/8/2024
+128,Data Engineer,Deloitte,Delhi,5,3,"AWS, Docker, Kubernetes",5/12/2024
+129,Software Engineer,Tech Mahindra,Mumbai,6.55,6,"Python, Spark, SQL",2/18/2024
+130,Software Engineer,HCL,Mumbai,12.25,7,"Java, Spring Boot, SQL",2/25/2024
+131,DevOps Engineer,TCS,Chennai,7.18,1,"AWS, Docker, Kubernetes",4/2/2024
+132,Full Stack Developer,Capgemini,Chennai,5.86,3,"Excel, Power BI, SQL",3/12/2024
+133,Business Analyst,TCS,Pune,9.98,7,"AWS, Docker, Kubernetes",4/16/2024
+134,Software Engineer,Wipro,Delhi,11.06,0,"AWS, Docker, Kubernetes",1/30/2024
+135,Data Analyst,TCS,Bangalore,15.74,3,"HTML, CSS, JavaScript",4/27/2024
+136,Business Analyst,Tech Mahindra,Hyderabad,19.76,1,"Java, Spring Boot, SQL",3/10/2024
+137,Full Stack Developer,Deloitte,Chennai,6.55,4,"Python, ML, SQL",4/19/2024
+138,Full Stack Developer,Accenture,Pune,14.93,7,"React, Node.js, JavaScript",1/31/2024
+139,Data Analyst,Wipro,Mumbai,16.97,4,"Java, Spring Boot, SQL",3/23/2024
+140,Full Stack Developer,Deloitte,Bangalore,15.99,7,"React, Node.js, JavaScript",2/24/2024
+141,Data Engineer,Tech Mahindra,Hyderabad,4.7,5,"React, Node.js, JavaScript",4/4/2024
+142,Software Engineer,HCL,Delhi,6.29,1,"Excel, Power BI, SQL",2/27/2024
+143,Java Developer,Accenture,Delhi,19.39,1,"HTML, CSS, JavaScript",3/1/2024
+144,Data Analyst,Tech Mahindra,Mumbai,19.19,2,"HTML, CSS, JavaScript",5/23/2024
+145,Data Engineer,Wipro,Delhi,8.31,6,"Python, ML, SQL",5/2/2024
+146,Full Stack Developer,Infosys,Hyderabad,5.69,7,"HTML, CSS, JavaScript",2/16/2024
+147,Full Stack Developer,Capgemini,Bangalore,4.38,3,"React, Node.js, JavaScript",1/16/2024
+148,Full Stack Developer,Infosys,Bangalore,13.38,0,"SQL, Python, Excel",5/21/2024
+149,Frontend Developer,Deloitte,Chennai,4.28,7,"React, Node.js, JavaScript",5/18/2024
+150,Data Analyst,Tech Mahindra,Chennai,16.92,1,"SQL, Python, Excel",1/28/2024
+151,DevOps Engineer,Tech Mahindra,Delhi,3.82,4,"SQL, Python, Excel",1/11/2024
+152,Data Engineer,TCS,Pune,7.6,3,"Excel, Power BI, SQL",2/26/2024
+153,Frontend Developer,HCL,Delhi,6.77,4,"HTML, CSS, JavaScript",4/18/2024
+154,Software Engineer,Wipro,Pune,3.41,3,"Python, ML, SQL",2/16/2024
+155,Frontend Developer,HCL,Bangalore,17.76,1,"AWS, Docker, Kubernetes",5/21/2024
+156,Business Analyst,Tech Mahindra,Pune,8.87,7,"Java, Spring Boot, SQL",3/9/2024
+157,Data Engineer,Infosys,Pune,9.7,1,"Java, Spring Boot, SQL",3/12/2024
+158,Full Stack Developer,Wipro,Mumbai,18.74,5,"Java, Spring Boot, SQL",4/4/2024
+159,Data Scientist,Accenture,Chennai,3.66,0,"AWS, Docker, Kubernetes",5/13/2024
+160,Java Developer,Capgemini,Bangalore,16.58,4,"React, Node.js, JavaScript",5/28/2024
+161,Full Stack Developer,Infosys,Pune,10.85,5,"Python, Spark, SQL",4/13/2024
+162,Software Engineer,Accenture,Mumbai,3.7,3,"SQL, Python, Excel",2/17/2024
+163,Backend Developer,Capgemini,Pune,16.98,2,"AWS, Docker, Kubernetes",2/16/2024
+164,Data Scientist,Infosys,Pune,11.07,3,"AWS, Docker, Kubernetes",2/11/2024
+165,Data Engineer,Wipro,Pune,12.79,1,"Python, Spark, SQL",4/15/2024
+166,Software Engineer,TCS,Mumbai,9.89,1,"React, Node.js, JavaScript",2/9/2024
+167,Business Analyst,HCL,Delhi,12.21,1,"Python, Spark, SQL",1/29/2024
+168,Frontend Developer,Wipro,Hyderabad,15.17,5,"HTML, CSS, JavaScript",2/28/2024
+169,Backend Developer,Infosys,Chennai,9.42,0,"Python, Spark, SQL",1/2/2024
+170,Full Stack Developer,TCS,Mumbai,16.99,1,"AWS, Docker, Kubernetes",3/1/2024
+171,Software Engineer,Wipro,Pune,4.45,0,"Java, Spring Boot, SQL",1/19/2024
+172,Data Scientist,HCL,Hyderabad,19.25,7,"SQL, Python, Excel",3/5/2024
+173,Full Stack Developer,Infosys,Pune,13.57,1,"React, Node.js, JavaScript",4/12/2024
+174,Data Engineer,HCL,Mumbai,18.91,1,"SQL, Python, Excel",1/1/2024
+175,Data Analyst,Deloitte,Hyderabad,10.77,7,"SQL, Python, Excel",4/16/2024
+176,Data Analyst,Wipro,Chennai,15.56,4,"Excel, Power BI, SQL",1/9/2024
+177,Data Scientist,Tech Mahindra,Mumbai,13.03,4,"Excel, Power BI, SQL",3/29/2024
+178,Data Engineer,Deloitte,Delhi,15.73,6,"Java, Spring Boot, SQL",5/4/2024
+179,Java Developer,Accenture,Pune,13.35,4,"SQL, Python, Excel",2/29/2024
+180,Data Engineer,Deloitte,Hyderabad,14.53,6,"Excel, Power BI, SQL",4/3/2024
+181,Java Developer,Accenture,Delhi,9.02,6,"Python, ML, SQL",1/7/2024
+182,Backend Developer,Tech Mahindra,Hyderabad,15.52,7,"SQL, Python, Excel",4/21/2024
+183,Frontend Developer,Wipro,Chennai,5.81,7,"Java, Spring Boot, SQL",1/7/2024
+184,Data Scientist,Wipro,Pune,6.34,3,"HTML, CSS, JavaScript",3/30/2024
+185,Frontend Developer,Tech Mahindra,Mumbai,10.37,3,"Java, Spring Boot, SQL",1/7/2024
+186,Data Analyst,Accenture,Chennai,13.55,4,"SQL, Python, Excel",1/6/2024
+187,DevOps Engineer,Tech Mahindra,Chennai,4.3,0,"React, Node.js, JavaScript",2/26/2024
+188,Java Developer,Deloitte,Mumbai,18.63,7,"Excel, Power BI, SQL",3/30/2024
+189,Software Engineer,Wipro,Bangalore,8.95,1,"Excel, Power BI, SQL",5/29/2024
+190,Java Developer,Tech Mahindra,Pune,17.71,3,"AWS, Docker, Kubernetes",4/8/2024
+191,DevOps Engineer,Infosys,Chennai,18.66,2,"React, Node.js, JavaScript",3/23/2024
+192,Backend Developer,Capgemini,Pune,10.18,3,"HTML, CSS, JavaScript",4/4/2024
+193,Data Scientist,Deloitte,Bangalore,15.65,6,"Java, Spring Boot, SQL",5/17/2024
+194,DevOps Engineer,Tech Mahindra,Pune,18.23,0,"HTML, CSS, JavaScript",5/3/2024
+195,Business Analyst,Deloitte,Pune,10.03,1,"Java, Spring Boot, SQL",1/29/2024
+196,Data Analyst,Accenture,Mumbai,8.8,6,"Python, ML, SQL",5/26/2024
+197,Data Engineer,Capgemini,Pune,7.89,5,"React, Node.js, JavaScript",1/31/2024
+198,Frontend Developer,Deloitte,Hyderabad,16.04,0,"AWS, Docker, Kubernetes",3/12/2024
+199,Java Developer,HCL,Pune,18.93,6,"SQL, Python, Excel",3/16/2024
+200,Data Analyst,Deloitte,Bangalore,7.54,0,"Excel, Power BI, SQL",2/29/2024
+201,Data Engineer,Accenture,Hyderabad,9.87,6,"Python, Spark, SQL",4/28/2024
+202,Frontend Developer,Capgemini,Mumbai,6.66,6,"SQL, Python, Excel",3/8/2024
+203,DevOps Engineer,HCL,Chennai,11.7,1,"Python, ML, SQL",2/4/2024
+204,Software Engineer,Wipro,Pune,17.9,1,"Python, ML, SQL",1/12/2024
+205,Data Scientist,Capgemini,Pune,17.16,6,"Excel, Power BI, SQL",4/12/2024
+206,Full Stack Developer,Infosys,Pune,13.86,3,"Excel, Power BI, SQL",5/14/2024
+207,Java Developer,TCS,Delhi,12.26,7,"SQL, Python, Excel",4/5/2024
+208,Business Analyst,Capgemini,Pune,14.24,4,"SQL, Python, Excel",3/24/2024
+209,DevOps Engineer,Accenture,Delhi,12.86,6,"Excel, Power BI, SQL",1/17/2024
+210,Data Engineer,TCS,Hyderabad,17.43,3,"Excel, Power BI, SQL",3/6/2024
+211,DevOps Engineer,HCL,Mumbai,11.09,4,"SQL, Python, Excel",5/19/2024
+212,Business Analyst,Infosys,Bangalore,4.95,7,"Python, ML, SQL",2/26/2024
+213,Business Analyst,TCS,Chennai,17.21,2,"Excel, Power BI, SQL",4/10/2024
+214,Software Engineer,Deloitte,Pune,18.52,3,"AWS, Docker, Kubernetes",5/19/2024
+215,Frontend Developer,Deloitte,Delhi,13.24,0,"React, Node.js, JavaScript",2/25/2024
+216,Frontend Developer,Capgemini,Hyderabad,15.53,0,"React, Node.js, JavaScript",4/22/2024
+217,Backend Developer,Accenture,Hyderabad,14.18,5,"Excel, Power BI, SQL",3/4/2024
+218,DevOps Engineer,Deloitte,Mumbai,18.12,4,"Java, Spring Boot, SQL",4/2/2024
+219,Frontend Developer,HCL,Chennai,19.7,1,"Excel, Power BI, SQL",2/2/2024
+220,Full Stack Developer,TCS,Pune,12.7,1,"Excel, Power BI, SQL",4/21/2024
+221,Business Analyst,Wipro,Delhi,18.34,1,"Excel, Power BI, SQL",5/30/2024
+222,Java Developer,Deloitte,Pune,16.99,6,"React, Node.js, JavaScript",4/4/2024
+223,Data Analyst,HCL,Hyderabad,14.32,7,"Python, Spark, SQL",2/19/2024
+224,Frontend Developer,HCL,Pune,10.25,3,"React, Node.js, JavaScript",3/21/2024
+225,Data Engineer,HCL,Chennai,7.91,6,"React, Node.js, JavaScript",4/14/2024
+226,Java Developer,Infosys,Pune,17.57,7,"Python, ML, SQL",3/1/2024
+227,Business Analyst,Deloitte,Pune,6.99,6,"AWS, Docker, Kubernetes",5/7/2024
+228,Data Analyst,Capgemini,Pune,12.31,4,"Python, ML, SQL",5/4/2024
+229,Data Scientist,Deloitte,Delhi,13.04,3,"Java, Spring Boot, SQL",5/30/2024
+230,Business Analyst,Infosys,Pune,14.96,5,"HTML, CSS, JavaScript",5/1/2024
+231,Data Scientist,Wipro,Chennai,5.6,0,"Python, ML, SQL",3/30/2024
+232,Full Stack Developer,Tech Mahindra,Delhi,14.47,6,"HTML, CSS, JavaScript",3/7/2024
+233,Data Scientist,Accenture,Chennai,18.01,1,"Java, Spring Boot, SQL",1/3/2024
+234,Data Engineer,Capgemini,Chennai,11.73,7,"React, Node.js, JavaScript",3/7/2024
+235,Business Analyst,Capgemini,Pune,3.01,4,"React, Node.js, JavaScript",1/7/2024
+236,Software Engineer,Tech Mahindra,Delhi,3.22,7,"Java, Spring Boot, SQL",5/16/2024
+237,Data Engineer,Accenture,Mumbai,3.55,2,"React, Node.js, JavaScript",2/26/2024
+238,Full Stack Developer,HCL,Hyderabad,4.65,7,"SQL, Python, Excel",1/25/2024
+239,Data Analyst,HCL,Hyderabad,16.04,5,"Python, Spark, SQL",2/10/2024
+240,Backend Developer,Infosys,Bangalore,9.89,3,"Java, Spring Boot, SQL",4/19/2024
+241,DevOps Engineer,HCL,Mumbai,16.16,7,"HTML, CSS, JavaScript",4/9/2024
+242,Full Stack Developer,Wipro,Chennai,11.65,1,"HTML, CSS, JavaScript",3/18/2024
+243,Data Analyst,Infosys,Hyderabad,13.95,1,"Python, ML, SQL",2/5/2024
+244,Frontend Developer,Tech Mahindra,Delhi,15.85,0,"Python, ML, SQL",2/17/2024
+245,Full Stack Developer,Wipro,Chennai,19.69,6,"React, Node.js, JavaScript",5/26/2024
+246,Software Engineer,Wipro,Mumbai,10.7,6,"Python, ML, SQL",1/8/2024
+247,Business Analyst,Tech Mahindra,Chennai,10.1,7,"Python, ML, SQL",2/13/2024
+248,DevOps Engineer,Wipro,Bangalore,15.37,6,"Excel, Power BI, SQL",2/1/2024
+249,Java Developer,Deloitte,Delhi,16.64,3,"Python, ML, SQL",2/5/2024
+250,Business Analyst,Deloitte,Mumbai,14.18,5,"React, Node.js, JavaScript",1/25/2024
+251,Data Analyst,Wipro,Chennai,7.62,1,"Python, ML, SQL",3/10/2024
+252,Data Scientist,Capgemini,Hyderabad,9.72,7,"AWS, Docker, Kubernetes",5/2/2024
+253,Java Developer,HCL,Bangalore,5.17,7,"HTML, CSS, JavaScript",5/19/2024
+254,Java Developer,Capgemini,Chennai,13.84,1,"Python, Spark, SQL",3/12/2024
+255,Data Scientist,Infosys,Pune,5.59,2,"Java, Spring Boot, SQL",2/7/2024
+256,Data Scientist,Accenture,Delhi,15.59,2,"SQL, Python, Excel",3/9/2024
+257,Full Stack Developer,Wipro,Delhi,5.3,3,"AWS, Docker, Kubernetes",4/3/2024
+258,Data Engineer,Tech Mahindra,Bangalore,10.73,2,"Python, Spark, SQL",4/23/2024
+259,DevOps Engineer,Capgemini,Pune,19.74,1,"Python, Spark, SQL",4/17/2024
+260,DevOps Engineer,Infosys,Bangalore,13.59,2,"HTML, CSS, JavaScript",5/20/2024
+261,Frontend Developer,Capgemini,Pune,7.78,1,"Python, ML, SQL",1/11/2024
+262,Data Analyst,Infosys,Delhi,16.46,6,"HTML, CSS, JavaScript",1/10/2024
+263,DevOps Engineer,Deloitte,Pune,7.22,5,"AWS, Docker, Kubernetes",2/19/2024
+264,Data Analyst,Tech Mahindra,Mumbai,15.72,2,"AWS, Docker, Kubernetes",1/2/2024
+265,Data Engineer,Deloitte,Mumbai,16.15,0,"SQL, Python, Excel",1/28/2024
+266,Business Analyst,Capgemini,Chennai,10.39,6,"SQL, Python, Excel",2/12/2024
+267,Data Scientist,Capgemini,Hyderabad,14.68,7,"HTML, CSS, JavaScript",2/18/2024
+268,Java Developer,Accenture,Bangalore,14.62,5,"SQL, Python, Excel",2/13/2024
+269,Backend Developer,Accenture,Chennai,9.29,7,"HTML, CSS, JavaScript",2/26/2024
+270,Software Engineer,Capgemini,Pune,18.67,7,"React, Node.js, JavaScript",4/24/2024
+271,Business Analyst,HCL,Bangalore,16.14,4,"AWS, Docker, Kubernetes",1/5/2024
+272,Data Engineer,Capgemini,Hyderabad,19.61,6,"Python, Spark, SQL",5/22/2024
+273,Data Analyst,Wipro,Hyderabad,8.11,3,"Java, Spring Boot, SQL",3/3/2024
+274,Business Analyst,TCS,Chennai,3.17,7,"AWS, Docker, Kubernetes",2/12/2024
+275,Backend Developer,Capgemini,Delhi,6.18,1,"Java, Spring Boot, SQL",3/6/2024
+276,Java Developer,Deloitte,Bangalore,19.46,0,"Python, ML, SQL",1/3/2024
+277,Data Analyst,Infosys,Hyderabad,8.99,3,"Excel, Power BI, SQL",5/7/2024
+278,Full Stack Developer,Tech Mahindra,Bangalore,8.16,4,"HTML, CSS, JavaScript",2/10/2024
+279,Data Analyst,Accenture,Hyderabad,16.49,1,"Java, Spring Boot, SQL",1/23/2024
+280,Backend Developer,Deloitte,Hyderabad,7.26,4,"Python, Spark, SQL",1/26/2024
+281,Data Scientist,TCS,Mumbai,5.99,4,"Python, Spark, SQL",4/5/2024
+282,Java Developer,TCS,Bangalore,12.39,0,"Python, ML, SQL",5/7/2024
+283,Data Scientist,Tech Mahindra,Pune,3.33,6,"Python, ML, SQL",4/24/2024
+284,Data Analyst,HCL,Delhi,12.62,1,"Excel, Power BI, SQL",5/21/2024
+285,Software Engineer,Accenture,Pune,18.99,2,"HTML, CSS, JavaScript",1/7/2024
+286,Software Engineer,TCS,Bangalore,5.36,2,"Python, Spark, SQL",5/2/2024
+287,DevOps Engineer,Capgemini,Delhi,4.7,1,"React, Node.js, JavaScript",3/16/2024
+288,Software Engineer,Wipro,Mumbai,12.44,6,"SQL, Python, Excel",5/13/2024
+289,Backend Developer,TCS,Bangalore,15.41,7,"React, Node.js, JavaScript",2/3/2024
+290,Data Analyst,Infosys,Pune,15.15,5,"Java, Spring Boot, SQL",4/13/2024
+291,Frontend Developer,TCS,Delhi,15.68,1,"React, Node.js, JavaScript",2/1/2024
+292,Backend Developer,TCS,Hyderabad,17.8,2,"Excel, Power BI, SQL",2/18/2024
+293,Business Analyst,Deloitte,Delhi,11.64,5,"AWS, Docker, Kubernetes",3/12/2024
+294,Data Scientist,Infosys,Chennai,7.08,7,"AWS, Docker, Kubernetes",5/30/2024
+295,Business Analyst,TCS,Mumbai,14.43,2,"HTML, CSS, JavaScript",5/13/2024
+296,Data Scientist,Infosys,Bangalore,8.31,3,"HTML, CSS, JavaScript",3/13/2024
+297,DevOps Engineer,Wipro,Hyderabad,12.24,3,"SQL, Python, Excel",2/21/2024
+298,Business Analyst,HCL,Mumbai,7.32,7,"HTML, CSS, JavaScript",1/11/2024
+299,Backend Developer,Tech Mahindra,Pune,16.87,2,"Python, ML, SQL",2/7/2024
+300,DevOps Engineer,Accenture,Bangalore,5.07,4,"AWS, Docker, Kubernetes",4/1/2024
